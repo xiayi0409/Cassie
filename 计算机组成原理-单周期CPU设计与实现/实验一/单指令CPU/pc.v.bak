@@ -1,0 +1,14 @@
+module PC(
+    //输入的两个信号
+    input clk,
+    input rst,
+    output reg [7:0] pc
+);
+    always@(posedge clk) beign
+        if (rst == 1)
+            pc = 0;
+        else
+            pc+= 1;
+    end //时钟上升沿触发
+
+endmoudle
