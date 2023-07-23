@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Dec 26 14:39:55 2022
+# Process ID: 18808
+# Current directory: D:/桌面/5-stage-pipeline-cpu-main/5-stage-pipeline-cpu-main/peoject/cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21616 D:\桌面\5-stage-pipeline-cpu-main\5-stage-pipeline-cpu-main\peoject\cpu\cpu.xpr
+# Log file: D:/桌面/5-stage-pipeline-cpu-main/5-stage-pipeline-cpu-main/peoject/cpu/vivado.log
+# Journal file: D:/桌面/5-stage-pipeline-cpu-main/5-stage-pipeline-cpu-main/peoject/cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui

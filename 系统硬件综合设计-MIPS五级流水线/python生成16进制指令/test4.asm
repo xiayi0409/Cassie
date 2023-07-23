@@ -1,0 +1,9 @@
+addi 1,0,4
+addi 2,0,5
+add 5,1,2
+lb 2,3,1
+addi 3,0,6
+sub 6,3,1
+addi 4,0,7
+addi 5,3,1
+sub 8,3,5
